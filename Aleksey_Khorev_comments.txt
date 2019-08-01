@@ -1,0 +1,5 @@
+- My main specialization is React.
+- In assets we have file with empty content. I'd ask what is it and can I remove this one or not.
+- Changed structure - created another folder for components (or moved services from this folder to another one)
+- The problim with requesting data twice - the problem in pipe - it was called twice, but I didn't catch the root of problem
+- In some places we use ", in some '. I'd refactor this (I prefer user ")
